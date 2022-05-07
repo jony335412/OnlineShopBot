@@ -1,0 +1,3 @@
+id PK
+product TEXT
+tg_id INT
